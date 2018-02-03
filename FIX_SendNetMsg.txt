@@ -1,0 +1,15 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"CNetChan::SendNetMsg"
+			{
+				"library"		"engine"
+				"linux"			"\x55\x89\xE5\x83\xEC\x38\x0F\xB6\x45\x14\x89\x5D\xF4"
+				"windows"		""
+			}
+		}
+	}
+}
